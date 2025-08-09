@@ -26,12 +26,3 @@ Organized for easy learning, reference, and interview preparation.
 | 🔹 Bit Manipulation | XOR tricks, masks |
 
 ---
-
-## 📂 Repository Structure
-📦 Data Structures and Algorithms
-┣ 📂 patterns
-┃ ┣ 📂 sliding-window
-┃ ┣ 📂 two-pointers
-┃ ┣ 📂 Divide and Conquer
-┃ ┗ 📂 ...
-┣ 📜 README.md
