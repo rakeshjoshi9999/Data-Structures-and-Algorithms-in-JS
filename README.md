@@ -1,13 +1,10 @@
 # 🚀 Data Structures & Algorithms – Pattern-Based Solutions
 
 ![DSA Badge](https://img.shields.io/badge/DSA-Patterns-blue?style=for-the-badge)
-![Language](https://img.shields.io/badge/Language-JavaScript%20%7C%20TypeScript-orange?style=for-the-badge)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-120+-brightgreen?style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/yourusername/dsa-patterns?style=for-the-badge)
+![Language](https://img.shields.io/badge/Language-JavaScript%20%7C%20-orange?style=for-the-badge)
 
 A curated collection of **Data Structures & Algorithms** problems solved using **pattern-based approaches**.  
-Organized for easy learning, reference, and interview preparation.
-
+Organized for easy learning, reference.
 ---
 
 ## 📌 Patterns Covered
